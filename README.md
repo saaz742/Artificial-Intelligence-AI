@@ -19,3 +19,6 @@ SUT - Fall 2021
      - [5](https://github.com/saaz742/Artificial-Intelligence-AI/tree/main/Theorical%20HWs/5)
      - [6](https://github.com/saaz742/Artificial-Intelligence-AI/tree/main/Theorical%20HWs/6)
      - [7](https://github.com/saaz742/Artificial-Intelligence-AI/tree/main/Theorical%20HWs/7)
+
+ - [Slides (24)](https://github.com/saaz742/Artificial-Intelligence-AI/tree/main/slide)
+ - [Exams](https://github.com/saaz742/Artificial-Intelligence-AI/tree/main/Exam)
